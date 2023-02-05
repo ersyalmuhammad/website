@@ -1,5 +1,5 @@
 ## Sistem Pendukung Keputusan Penerimaan Beasiswa (SAW) sederhana
-
+### created by ersyal
 ### Cara menjalankan
 1. Clone repository dengan perintah
 ```
